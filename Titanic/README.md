@@ -6,11 +6,11 @@ en función de atributos relevantes. Se partirá desde un dataset inicial _‘tr
 dentro del dataset _‘test’_ podrían sobrevivir, guardando las predicciones en un tercer dataset _‘predicciones’_.
 
 ## CARACTERÍSTICAS DEL DATASET INICIAL
-# Información general:
+### Información general:
 - Cantidad de registros: 891.
 - Cantidad de atributos: 12.
 
-# Atributos:
+### Atributos:
 - PassengerId: Identificador único (int).
 - Survived: Indica si el pasajero sobrevivió o no (int).
 - Pclass: Clase del ticket del pasajero (int).
