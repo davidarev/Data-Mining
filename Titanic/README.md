@@ -1,4 +1,4 @@
-## TITANIC
+# TITANIC
 
 ## OBJETIVO DEL PROYECTO
 Analizar datos históricos sobre los pasajeros del Titanic y construir un modelo predictivo que permita estimar la probabilidad de supervivencia de los pasajeros 
