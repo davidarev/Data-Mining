@@ -3,9 +3,9 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import accuracy_score, classification_report, confusion_matrix
 
 # 1. CARGO LOS DATASETS
-train_path = '/Users/davidarevalo/Library/Mobile Documents/com~apple~CloudDocs/Nebrija/5º Año/1er Semestre/Big Data/Caso práctico final/data/train.csv'
-test_path = '/Users/davidarevalo/Library/Mobile Documents/com~apple~CloudDocs/Nebrija/5º Año/1er Semestre/Big Data/Caso práctico final/data/test.csv'
-predicciones_path = '/Users/davidarevalo/Library/Mobile Documents/com~apple~CloudDocs/Nebrija/5º Año/1er Semestre/Big Data/Caso práctico final/predicciones.csv'
+train_path = '<ruta>/train.csv'
+test_path = '<ruta>/data/test.csv'
+predicciones_path = '<ruta>/predicciones.csv'
 
 df_train = pd.read_csv(train_path)
 df_test = pd.read_csv(test_path)
